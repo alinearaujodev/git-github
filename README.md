@@ -1,4 +1,4 @@
-# git-study
+# Git e Github
  Repositório para estudar git e github
 
  > Status do Projeto: Em andamento :warning:
@@ -11,5 +11,5 @@
 
 ### Participante:
 |name|email|
-| -------- | -------- |
+| --- | --- |
 |Aline de Araújo|alineprofissional@outlook.com|
